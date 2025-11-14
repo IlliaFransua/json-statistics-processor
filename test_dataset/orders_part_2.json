@@ -1,0 +1,430 @@
+[
+  {
+    "id": "108fb9e9-d954-4687-bcee-83a29c8c1abc",
+    "createdAt": "2025-11-14T16:40:39.531036Z",
+    "burgers": [
+      {
+        "id": "dc5377c0-93de-46ac-98a8-12c490a16f0d",
+        "name": "Classic Cheeseburger",
+        "ingredients": [
+          {
+            "id": "3f2198c2-3c6f-46fd-829c-f54559c89872",
+            "name": "Beef Patty (100g)",
+            "unitPrice": 6.50
+          },
+          {
+            "id": "0cc80f68-1110-45e6-aa32-5a8400387f5d",
+            "name": "Swiss Cheese",
+            "unitPrice": 2.30
+          },
+          {
+            "id": "15cc262e-6954-4004-9840-bbdc97dc9a38",
+            "name": "Roma Tomato Slice",
+            "unitPrice": 0.60
+          },
+          {
+            "id": "a466c7a7-ed3f-4bad-afe9-225f5cff5ec9",
+            "name": "Brioche Bun",
+            "unitPrice": 1.30
+          }
+        ]
+      },
+      {
+        "id": "a3fcaf3b-96e0-4166-b3f3-9ea00484d3bd",
+        "name": "Smoky BBQ Bacon",
+        "ingredients": [
+          {
+            "id": "3f2198c2-3c6f-46fd-829c-f54559c89872",
+            "name": "Beef Patty (100g)",
+            "unitPrice": 6.50
+          },
+          {
+            "id": "3f2198c2-3c6f-46fd-829c-f54559c89872",
+            "name": "Beef Patty (100g)",
+            "unitPrice": 6.50
+          },
+          {
+            "id": "d8581be5-8f74-43ff-8a70-db03ae8c5621",
+            "name": "Crispy Bacon Strip",
+            "unitPrice": 2.80
+          },
+          {
+            "id": "560240e2-bd3e-4cba-97f7-c6797775f11e",
+            "name": "Aged Cheddar Cheese",
+            "unitPrice": 2.00
+          },
+          {
+            "id": "8c1d18e5-9088-44d7-b16c-0751bb838887",
+            "name": "Smoky BBQ Sauce",
+            "unitPrice": 1.00
+          },
+          {
+            "id": "8738de4a-1b03-4c76-b343-3811ffc6b3da",
+            "name": "Sesame Bun",
+            "unitPrice": 1.10
+          }
+        ]
+      },
+      {
+        "id": "a2568614-da1b-4a77-be0a-40c83af2570e",
+        "name": "Double Cheese Deluxe",
+        "ingredients": [
+          {
+            "id": "3f2198c2-3c6f-46fd-829c-f54559c89872",
+            "name": "Beef Patty (100g)",
+            "unitPrice": 6.50
+          },
+          {
+            "id": "560240e2-bd3e-4cba-97f7-c6797775f11e",
+            "name": "Aged Cheddar Cheese",
+            "unitPrice": 2.00
+          },
+          {
+            "id": "0cc80f68-1110-45e6-aa32-5a8400387f5d",
+            "name": "Swiss Cheese",
+            "unitPrice": 2.30
+          },
+          {
+            "id": "bcc929c2-064a-4360-999d-50d995f48b1c",
+            "name": "Iceberg Lettuce",
+            "unitPrice": 0.50
+          },
+          {
+            "id": "8738de4a-1b03-4c76-b343-3811ffc6b3da",
+            "name": "Sesame Bun",
+            "unitPrice": 1.10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "25c91693-4f9b-40a8-a1f3-650a1abe93d5",
+    "createdAt": "2025-11-14T16:40:39.531058Z",
+    "burgers": [
+      {
+        "id": "1303b9c3-fe14-4d86-b489-ab4f143a5899",
+        "name": "Hot Chicken Melt",
+        "ingredients": [
+          {
+            "id": "709c6f1a-b8be-479b-9fe4-7963f60b2903",
+            "name": "Grilled Chicken Fillet",
+            "unitPrice": 5.20
+          },
+          {
+            "id": "d8ce36b7-9fb4-4e28-9f9a-fe0f43365631",
+            "name": "Spicy Jalapeños",
+            "unitPrice": 1.00
+          },
+          {
+            "id": "abbdfcdb-ae51-48c3-9785-0d8b0bf81e26",
+            "name": "Garlic Aioli Mayo",
+            "unitPrice": 0.90
+          },
+          {
+            "id": "bcc929c2-064a-4360-999d-50d995f48b1c",
+            "name": "Iceberg Lettuce",
+            "unitPrice": 0.50
+          },
+          {
+            "id": "a466c7a7-ed3f-4bad-afe9-225f5cff5ec9",
+            "name": "Brioche Bun",
+            "unitPrice": 1.30
+          }
+        ]
+      },
+      {
+        "id": "1303b9c3-fe14-4d86-b489-ab4f143a5899",
+        "name": "Hot Chicken Melt",
+        "ingredients": [
+          {
+            "id": "709c6f1a-b8be-479b-9fe4-7963f60b2903",
+            "name": "Grilled Chicken Fillet",
+            "unitPrice": 5.20
+          },
+          {
+            "id": "d8ce36b7-9fb4-4e28-9f9a-fe0f43365631",
+            "name": "Spicy Jalapeños",
+            "unitPrice": 1.00
+          },
+          {
+            "id": "abbdfcdb-ae51-48c3-9785-0d8b0bf81e26",
+            "name": "Garlic Aioli Mayo",
+            "unitPrice": 0.90
+          },
+          {
+            "id": "bcc929c2-064a-4360-999d-50d995f48b1c",
+            "name": "Iceberg Lettuce",
+            "unitPrice": 0.50
+          },
+          {
+            "id": "a466c7a7-ed3f-4bad-afe9-225f5cff5ec9",
+            "name": "Brioche Bun",
+            "unitPrice": 1.30
+          }
+        ]
+      },
+      {
+        "id": "5a33406c-5e8c-4e5c-8387-7834ab24fddd",
+        "name": "Veggie Pickles",
+        "ingredients": [
+          {
+            "id": "15cc262e-6954-4004-9840-bbdc97dc9a38",
+            "name": "Roma Tomato Slice",
+            "unitPrice": 0.60
+          },
+          {
+            "id": "bcc929c2-064a-4360-999d-50d995f48b1c",
+            "name": "Iceberg Lettuce",
+            "unitPrice": 0.50
+          },
+          {
+            "id": "b02a25da-895d-4541-9659-c9673a3b8f17",
+            "name": "Dill Pickles",
+            "unitPrice": 0.80
+          },
+          {
+            "id": "abbdfcdb-ae51-48c3-9785-0d8b0bf81e26",
+            "name": "Garlic Aioli Mayo",
+            "unitPrice": 0.90
+          },
+          {
+            "id": "a466c7a7-ed3f-4bad-afe9-225f5cff5ec9",
+            "name": "Brioche Bun",
+            "unitPrice": 1.30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "675ac02b-72ea-459d-86c1-3cc3d094c28b",
+    "createdAt": "2025-11-14T16:40:39.531076Z",
+    "burgers": [
+      {
+        "id": "a2568614-da1b-4a77-be0a-40c83af2570e",
+        "name": "Double Cheese Deluxe",
+        "ingredients": [
+          {
+            "id": "3f2198c2-3c6f-46fd-829c-f54559c89872",
+            "name": "Beef Patty (100g)",
+            "unitPrice": 6.50
+          },
+          {
+            "id": "560240e2-bd3e-4cba-97f7-c6797775f11e",
+            "name": "Aged Cheddar Cheese",
+            "unitPrice": 2.00
+          },
+          {
+            "id": "0cc80f68-1110-45e6-aa32-5a8400387f5d",
+            "name": "Swiss Cheese",
+            "unitPrice": 2.30
+          },
+          {
+            "id": "bcc929c2-064a-4360-999d-50d995f48b1c",
+            "name": "Iceberg Lettuce",
+            "unitPrice": 0.50
+          },
+          {
+            "id": "8738de4a-1b03-4c76-b343-3811ffc6b3da",
+            "name": "Sesame Bun",
+            "unitPrice": 1.10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0b91b4d8-e25d-4dfb-a7ee-abd49a43414b",
+    "createdAt": "2025-11-14T16:40:39.531079Z",
+    "burgers": [
+      {
+        "id": "dc5377c0-93de-46ac-98a8-12c490a16f0d",
+        "name": "Classic Cheeseburger",
+        "ingredients": [
+          {
+            "id": "3f2198c2-3c6f-46fd-829c-f54559c89872",
+            "name": "Beef Patty (100g)",
+            "unitPrice": 6.50
+          },
+          {
+            "id": "0cc80f68-1110-45e6-aa32-5a8400387f5d",
+            "name": "Swiss Cheese",
+            "unitPrice": 2.30
+          },
+          {
+            "id": "15cc262e-6954-4004-9840-bbdc97dc9a38",
+            "name": "Roma Tomato Slice",
+            "unitPrice": 0.60
+          },
+          {
+            "id": "a466c7a7-ed3f-4bad-afe9-225f5cff5ec9",
+            "name": "Brioche Bun",
+            "unitPrice": 1.30
+          }
+        ]
+      },
+      {
+        "id": "1303b9c3-fe14-4d86-b489-ab4f143a5899",
+        "name": "Hot Chicken Melt",
+        "ingredients": [
+          {
+            "id": "709c6f1a-b8be-479b-9fe4-7963f60b2903",
+            "name": "Grilled Chicken Fillet",
+            "unitPrice": 5.20
+          },
+          {
+            "id": "d8ce36b7-9fb4-4e28-9f9a-fe0f43365631",
+            "name": "Spicy Jalapeños",
+            "unitPrice": 1.00
+          },
+          {
+            "id": "abbdfcdb-ae51-48c3-9785-0d8b0bf81e26",
+            "name": "Garlic Aioli Mayo",
+            "unitPrice": 0.90
+          },
+          {
+            "id": "bcc929c2-064a-4360-999d-50d995f48b1c",
+            "name": "Iceberg Lettuce",
+            "unitPrice": 0.50
+          },
+          {
+            "id": "a466c7a7-ed3f-4bad-afe9-225f5cff5ec9",
+            "name": "Brioche Bun",
+            "unitPrice": 1.30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e5423896-54e1-480d-965e-582a6e8923ef",
+    "createdAt": "2025-11-14T16:40:39.531095Z",
+    "burgers": [
+      {
+        "id": "a3fcaf3b-96e0-4166-b3f3-9ea00484d3bd",
+        "name": "Smoky BBQ Bacon",
+        "ingredients": [
+          {
+            "id": "3f2198c2-3c6f-46fd-829c-f54559c89872",
+            "name": "Beef Patty (100g)",
+            "unitPrice": 6.50
+          },
+          {
+            "id": "3f2198c2-3c6f-46fd-829c-f54559c89872",
+            "name": "Beef Patty (100g)",
+            "unitPrice": 6.50
+          },
+          {
+            "id": "d8581be5-8f74-43ff-8a70-db03ae8c5621",
+            "name": "Crispy Bacon Strip",
+            "unitPrice": 2.80
+          },
+          {
+            "id": "560240e2-bd3e-4cba-97f7-c6797775f11e",
+            "name": "Aged Cheddar Cheese",
+            "unitPrice": 2.00
+          },
+          {
+            "id": "8c1d18e5-9088-44d7-b16c-0751bb838887",
+            "name": "Smoky BBQ Sauce",
+            "unitPrice": 1.00
+          },
+          {
+            "id": "8738de4a-1b03-4c76-b343-3811ffc6b3da",
+            "name": "Sesame Bun",
+            "unitPrice": 1.10
+          }
+        ]
+      },
+      {
+        "id": "5a33406c-5e8c-4e5c-8387-7834ab24fddd",
+        "name": "Veggie Pickles",
+        "ingredients": [
+          {
+            "id": "15cc262e-6954-4004-9840-bbdc97dc9a38",
+            "name": "Roma Tomato Slice",
+            "unitPrice": 0.60
+          },
+          {
+            "id": "bcc929c2-064a-4360-999d-50d995f48b1c",
+            "name": "Iceberg Lettuce",
+            "unitPrice": 0.50
+          },
+          {
+            "id": "b02a25da-895d-4541-9659-c9673a3b8f17",
+            "name": "Dill Pickles",
+            "unitPrice": 0.80
+          },
+          {
+            "id": "abbdfcdb-ae51-48c3-9785-0d8b0bf81e26",
+            "name": "Garlic Aioli Mayo",
+            "unitPrice": 0.90
+          },
+          {
+            "id": "a466c7a7-ed3f-4bad-afe9-225f5cff5ec9",
+            "name": "Brioche Bun",
+            "unitPrice": 1.30
+          }
+        ]
+      },
+      {
+        "id": "a2568614-da1b-4a77-be0a-40c83af2570e",
+        "name": "Double Cheese Deluxe",
+        "ingredients": [
+          {
+            "id": "3f2198c2-3c6f-46fd-829c-f54559c89872",
+            "name": "Beef Patty (100g)",
+            "unitPrice": 6.50
+          },
+          {
+            "id": "560240e2-bd3e-4cba-97f7-c6797775f11e",
+            "name": "Aged Cheddar Cheese",
+            "unitPrice": 2.00
+          },
+          {
+            "id": "0cc80f68-1110-45e6-aa32-5a8400387f5d",
+            "name": "Swiss Cheese",
+            "unitPrice": 2.30
+          },
+          {
+            "id": "bcc929c2-064a-4360-999d-50d995f48b1c",
+            "name": "Iceberg Lettuce",
+            "unitPrice": 0.50
+          },
+          {
+            "id": "8738de4a-1b03-4c76-b343-3811ffc6b3da",
+            "name": "Sesame Bun",
+            "unitPrice": 1.10
+          }
+        ]
+      },
+      {
+        "id": "dc5377c0-93de-46ac-98a8-12c490a16f0d",
+        "name": "Classic Cheeseburger",
+        "ingredients": [
+          {
+            "id": "3f2198c2-3c6f-46fd-829c-f54559c89872",
+            "name": "Beef Patty (100g)",
+            "unitPrice": 6.50
+          },
+          {
+            "id": "0cc80f68-1110-45e6-aa32-5a8400387f5d",
+            "name": "Swiss Cheese",
+            "unitPrice": 2.30
+          },
+          {
+            "id": "15cc262e-6954-4004-9840-bbdc97dc9a38",
+            "name": "Roma Tomato Slice",
+            "unitPrice": 0.60
+          },
+          {
+            "id": "a466c7a7-ed3f-4bad-afe9-225f5cff5ec9",
+            "name": "Brioche Bun",
+            "unitPrice": 1.30
+          }
+        ]
+      }
+    ]
+  }
+]

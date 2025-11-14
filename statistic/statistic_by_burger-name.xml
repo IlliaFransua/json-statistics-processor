@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<statistic>
+  <item>
+    <burgername>Hot Chicken Melt</burgername>
+    <count>10</count>
+  </item>
+  <item>
+    <burgername>Classic Cheeseburger</burgername>
+    <count>9</count>
+  </item>
+  <item>
+    <burgername>Veggie Pickles</burgername>
+    <count>8</count>
+  </item>
+  <item>
+    <burgername>Double Cheese Deluxe</burgername>
+    <count>7</count>
+  </item>
+  <item>
+    <burgername>Smoky BBQ Bacon</burgername>
+    <count>7</count>
+  </item>
+</statistic>
