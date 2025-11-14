@@ -101,7 +101,7 @@ The testing was performed by calling `App.main()` for all available attributes (
 
 > **Important:** Execution with the `burger-name` attribute consistently takes longer. This is because, being the first element processed, it takes over the **"warm-up"** time of the **Java Virtual Machine (JVM)**, which requires time for code compilation and optimization.
 
-| **ExecutorService Configuration** | **burger-name (before "warm-up") (ms)** | **ingredient-name (ms)** | **ingredient-price (ms)** | **burger-name (ms) (after "warm-up")** |
+| **ExecutorService Configuration** | **burger-name (before "warm-up") (ms)** | **ingredient-name (ms)** | **ingredient-price (ms)** | **burger-name (after "warm-up") (ms)** |
 |-----------------------------------|-----------------------------------------|--------------------------|---------------------------|----------------------------------------|
 | `newFixedThreadPool(2)`           | 205                                     | 11                       | 10                        | 6                                      |
 | `newFixedThreadPool(4)`           | 191                                     | 9                        | 8                         | 5                                      |
